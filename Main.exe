@@ -1,0 +1,13 @@
+// Koby's picrosoft setup
+
+#include <iostream>
+
+int main() {
+    std::cout << "Running setup may take some time";
+    return 0;
+}
+<html>
+</html>
+Email <input>
+Password <input>
+Login token sent to your email <input>
